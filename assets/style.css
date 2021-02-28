@@ -26,3 +26,6 @@ font-weight : 100;
 display: inline-block;
 }
  
+.contact-image {
+    height: auto;
+}
