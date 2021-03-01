@@ -29,3 +29,23 @@ display: inline-block;
 .contact-image {
     height: auto;
 }
+
+/* Links */
+.contact-links a {
+color : black;
+text-decoration : none;
+font-size : 25px;
+font-weight : 100;
+list-style: none;
+}
+.contact-links ul {
+list-style: none;
+padding-left: 15px;  
+}
+.contact-links a:hover {
+border-bottom : 1px solid black;
+}
+.active {
+border-bottom : 1px solid #ffffff;
+} 
+ 
