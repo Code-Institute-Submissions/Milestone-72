@@ -69,3 +69,11 @@ font-size : 20px;
 margin-bottom: 100px;
 padding-left: 15px;
 }
+
+.section-heading{
+    text-align: center;
+}
+
+.center-form{
+    margin-bottom: 2rem;
+}
