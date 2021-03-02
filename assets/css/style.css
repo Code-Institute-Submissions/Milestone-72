@@ -56,9 +56,9 @@ list-style: none;
 font-weight : 300;
 color : black;
 font-size : 20px;
-padding-bottom : 40px;
-padding-left: 15px;
-margin-bottom: 55px;
+padding-bottom : 2.5rem;
+padding-left: 1rem;
+margin-bottom: 3rem;
 }
 
 .personal-details ul{
