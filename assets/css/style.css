@@ -7,6 +7,12 @@ width: 100%;
 }
 
 /*Footer*/
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 .footer{
     height: 4.5rem;
     background-color: rgba(52,58,64,255);
