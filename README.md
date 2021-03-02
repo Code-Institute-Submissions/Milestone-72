@@ -43,10 +43,8 @@ The user can use the About me and Contact pages to find out how to get in touch 
 Be able to check my repositories and resume
 
 The user can see all my Git Repositories by clicking the link in the Resume page. Here they can see all the work i have done
-whilst reading more about my current goals and aspirations.
-  with a clean and easily readable 
-navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button
-
+whilst reading more about my current goals and aspirations. I have also included a GitPod link in my footer.
+   
 <h3> Design </h3>
 
 Colour scheme
@@ -110,48 +108,14 @@ Git is used as version control software to commit and push code to the GitHub re
 I have used this to create a mock up of the site on different devices
 
 
- 
- 
-
-<h3>Features left to implement</h3>
+ <h3>Features left to implement</h3>
 
 I would like to add a number of features going forward such as: <br>
 <li>Link the Collaboration form to an external mailbox</li>
 <li>Add a download Resume button/link</li>
 <li>An online store selling packages for development ideas/pricing plans</li>
 
-<h3> Technologies Used </h3>
-
-I have built my site using: 
-
-<h3>CSS</h3>
-https://en.wikipedia.org/wiki/CSS 
-CSS allows me to edit and decorate my site in the way I see fit. It gives me the ability to edit my HTML and create classes.
-
-<h3>HTML</h3> 
-https://en.wikipedia.org/wiki/HTML 
-
-<h3>Bootstrap (v4.5.3)</h3> 
-https://getbootstrap.com/ 
-I used Bootstrap because it allowed me to build a responsive website with the limited knowledge and skills I currently have. It was also used in my Nav Bar and
-to separate my divs into separate sizes across my site. 
-
-<h3>Balsamiq</h3> 
-https://balsamiq.com/# 
-I used Balsamiq to help create my template website and try design a quality site. <img src="assets/balsamiq/wireframe.pdf">
-
-<h3>Font Awesome</h3> 
-https://fontawesome.com/ 
-Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-
-<h3>Google Fonts</h3> 
-https://fonts.google.com/
-Google fonts were used to import the 'Roboto' 'Exo' font into the style.css file which is used on all pages throughout the project.
-
-<h3>jQuery</h3> 
-https://jquery.com/ 
-jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-
+ 
 <h3>Testing</h3> 
 
 I have tested my site thoroughly, all the links are working and take the user to the correct pages. 
