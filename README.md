@@ -1,4 +1,4 @@
- My site can be viewed here https://dwain-daniel.github.io/Milestone-1/ 
+ My site can be viewed [here](https://dwain-daniel.github.io/Milestone-1/) 
 
 <h1>Milestone Project</h1>
 
@@ -65,25 +65,25 @@ I would like to add a number of features going forward such as: <br>
 
 I have built my site using: 
 
-<h4>CSS</h4>(https://en.wikipedia.org/wiki/CSS) 
+[<h4>CSS</h4>](https://en.wikipedia.org/wiki/CSS) 
 I have used CSS to style my website
 
-<h4>HTML</h4>(https://en.wikipedia.org/wiki/HTML) 
+[<h4>HTML</h4>](https://en.wikipedia.org/wiki/HTML) 
 I have used HTML as the main language to create my website.
 
-<h4>Balsamiq</h4>(https://balsamiq.com/#)
+[<h4>Balsamiq</h4>](https://balsamiq.com/#)
 I used Balsamiq to help create my template and design a quality game. 
 
-<h4>Google Fonts</h4> https://fonts.google.com/
+[<h4>Google Fonts</h4>](https://fonts.google.com/)
 Google fonts were used to import the 'Exo' and 'Roboto' fonts into the style.css file which is used throughout the project.
 
-<h4>GitHub</h4>(https://github.com/)
+[<h4>GitHub</h4>](https://github.com/)
 I have used Github as the hosting site for my code and GitPages to deploy my game.
 
 <h4>Git</h4>
 Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
 
-<h4>Techsini</h4>](http://techsini.com/multi-mockup/index.php)
+[<h4>Techsini</h4>](http://techsini.com/multi-mockup/index.php)
 I have used this to create a mock up of the site on different devices
 
 
@@ -104,6 +104,7 @@ The webpage will respond when used on smaller devices, the nav bar will shrink d
 
 I placed my site throught a CSS Validator which returned no errors <img src="assets/testing/css-validator.PNG"> 
 I have placed all pages through a HTML Validator which returned no errors <img src="assets/testing/html-validator.PNG">
+I have tested my webpage using [Google Mobile Testing](https://search.google.com/test/mobile-friendly) <img src="assets/testing/mobile.PNG"> This returned no errors
 
 I have viewed the site on both mobiles and laptop devices. On iPhones I have noticed that the mobile number was automatically made into a clickable link.
 Whilst this is a helpful feature to promote interaction, the colour of the link is blue. This is similar to the colour of the background. This doesnt happen on the laptop.
