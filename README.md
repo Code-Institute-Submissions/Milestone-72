@@ -33,7 +33,7 @@ fit the colour theme.
 
 <h4>Font</h4>
 
-I have used font awesome and used Exo as my primary font and Roboto as my back up fonts. These are both clean professional fonts whilst being attractive.
+I have used Google Fonts to import Exo as my primary font and Roboto as my back up fonts. These are both clean professional fonts whilst being attractive.
 
 <h4>Wireframe</h4>
 

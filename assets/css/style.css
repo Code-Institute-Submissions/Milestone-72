@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+    margin-bottom: 3rem;
+}
+
 /*-------------- Images*/
 .background-image img {
 height: auto;
@@ -7,6 +12,9 @@ width: 100%;
 }
 
 /*Footer*/
+body {
+    padding-bottom: 1rem;
+}
 
 html {
   position: relative;
@@ -18,6 +26,10 @@ html {
     background-color: rgba(52,58,64,255);
     text-align: center;
     color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-top: 2rem;
 }
 
 .footer-links a:hover {
@@ -32,9 +44,6 @@ font-weight : 100;
 display: inline-block;
 }
  
-.contact-image {
-    height: auto;
-}
 
 /* Links */
 .contact-links a {
@@ -44,19 +53,21 @@ font-size : 25px;
 font-weight : 100;
 list-style: none;
 }
-.contact-links ul {
-list-style: none;
-padding-left: 1rem;  
-}
+
 .contact-links a:hover {
 border-bottom : 1px solid black;
 }
+
 .active {
 border-bottom : 1px solid #ffffff;
 } 
  
- 
+/* List Items */
 
+.contact-links ul {
+list-style: none;
+padding-left: 1rem;  
+}
 .work-history ul {
 list-style: none;
 font-weight : 300;
@@ -72,14 +83,17 @@ list-style: none;
 font-weight : 100;
 color: black;
 font-size : 20px;
-margin-bottom: 100px;
+margin-bottom: 1rem;
 padding-left: 1rem;
 }
 
+/* Section Headings */
 .section-heading{
     text-align: center;
 }
 
+/* Collaboration Form */
 .center-form{
     margin-bottom: 2rem;
 }
+
