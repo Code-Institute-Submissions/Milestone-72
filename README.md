@@ -1,3 +1,4 @@
+ <img src="assets/images/techsini.PNG">
  My site can be viewed [here](https://dwain-daniel.github.io/Milestone-1/) 
 
 <h1>Milestone Project</h1>
