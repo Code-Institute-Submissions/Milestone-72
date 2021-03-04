@@ -1,15 +1,13 @@
 <h1>Milestone Project</h1>
 
-<img src="assets/images/techsini.PNG">
-My site can be viewed [here](https://dwain-daniel.github.io/Milestone-1/)
-
-**View the live website [here](https://mosull20.github.io/lucky-dog-ms1/)**
+<img src="assets/testing/techsini.PNG">
+My site can be viewed at https://dwain-daniel.github.io/Milestone-1/ 
 
 
-This project will be used to display all that I have learned so far. I will be using this project to build a website to describe what i can do and what i attain to do in the future. 
-I will be using this website continuously as I learn new skills and adding new features progressively. At this moment in time i may not have all the skills
-I would like to have to incorporate all the features that i would like to have in the finished article. I want the website to be easily accessible, simple to navigate and user freindly. 
-It must also be displayed for various devices (desktop ,Tablet, Mobile Phone) whilst maintaining a great user experience . Links within the website directing me to other Pages either within this website
+This project will be used to display all that I have learned so far. I will be using this project to build a website to describe what I can do and what I attain to do in the future. 
+I will be using this website continuously as I learn new skills and adding new features progressively. At this moment in time I may not have all the skills
+I would like to have to incorporate all the features that I would like to have in the finished article. I want the website to be easily accessible, simple to navigate and user freindly. 
+It must also be displayed for various devices (desktop ,Tablet, Mobile Phone) whilst maintaining a great user experience . Links within the website directing me to other pages either within this website
 or to other social media accounts (youtube etc). I would like to have effects like hover to bring the website alive and encourages interaction
 
 <h3>UX</h3>
