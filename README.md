@@ -1,7 +1,10 @@
- <img src="assets/images/techsini.PNG">
- My site can be viewed [here](https://dwain-daniel.github.io/Milestone-1/) 
-
 <h1>Milestone Project</h1>
+
+<img src="assets/images/techsini.PNG">
+My site can be viewed [here](https://dwain-daniel.github.io/Milestone-1/)
+
+**View the live website [here](https://mosull20.github.io/lucky-dog-ms1/)**
+
 
 This project will be used to display all that I have learned so far. I will be using this project to build a website to describe what i can do and what i attain to do in the future. 
 I will be using this website continuously as I learn new skills and adding new features progressively. At this moment in time i may not have all the skills
@@ -135,6 +138,8 @@ The user can see all my Git Repositories by clicking the link in the Resume page
 whilst reading more about my current goals and aspirations. I have also included a GitPod link in my footer.
 
 <h3>Deployment</h3>
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system.
+I used push command in Gitpod to save changes into GitHub.
 
 I have used GitHub Pages to deploy the page using the following steps:
 

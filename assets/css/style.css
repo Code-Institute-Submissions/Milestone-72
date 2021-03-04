@@ -78,6 +78,11 @@ padding-left: 1rem;
 margin-bottom: 3rem;
 }
 
+.index-list{
+    list-style: none;
+    text-align: center;
+}
+
 .personal-details ul{
 list-style: none;
 font-weight : 100;
@@ -96,4 +101,3 @@ padding-left: 1rem;
 .center-form{
     margin-bottom: 2rem;
 }
-
